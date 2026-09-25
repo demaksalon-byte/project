@@ -27,6 +27,8 @@ Database Used: MySQL
 <img width="1908" height="960" alt="image" src="https://github.com/user-attachments/assets/1decb58f-a7ed-4fdd-bd0c-c3bd1f49dd15" />
 <img width="1905" height="954" alt="image" src="https://github.com/user-attachments/assets/50e14645-897e-4a41-a6bb-10821b82faf9" />
 <img width="1909" height="952" alt="image" src="https://github.com/user-attachments/assets/5ae5be42-3bd1-4fca-8c17-06009cc11940" />
+<img width="407" height="171" alt="image" src="https://github.com/user-attachments/assets/67c582af-0a40-44cd-9b0e-7350213888a3" />
+
 
 
 
